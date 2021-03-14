@@ -353,7 +353,7 @@ hr {
 }
 
 .first {
-    background: linear-gradient(to right, #f6c050, #00adb5, #ee7752, #654062);
+    background: linear-gradient(to right, #f6c050, #00d4ff, #ee7752);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: inline-block;
@@ -369,7 +369,7 @@ hr {
 }
 
 .second {
-    background: linear-gradient(to right, #af0069, #f6c050, #9632ac, #00d4ff);
+    background: linear-gradient(to right, #f6c050, #f25287, #9632ac, #00d4ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: secondSpan 1.5s forwards cubic-bezier(0.785, 0.135, 0.15, 0.86);
