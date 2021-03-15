@@ -360,7 +360,7 @@ hr {
     animation: firstSpan 1.5s forwards cubic-bezier(0.785, 0.135, 0.15, 0.86);
     z-index: 1;
     position: relative;
-    padding: 5px;
+    padding: 10px;
 }
 
 .oh {
@@ -375,7 +375,7 @@ hr {
     animation: secondSpan 1.5s forwards cubic-bezier(0.785, 0.135, 0.15, 0.86);
     z-index: -1;
     display: inline-block;
-    padding: 5px;
+    padding: 10px;
 }
 
 @keyframes fadeIn {
